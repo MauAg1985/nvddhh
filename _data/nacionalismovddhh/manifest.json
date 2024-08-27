@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://MauAg1985.github.io/nvddhh/nacionalismovddhh/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "NacionalismovDDHH" ] },
+    "items": [
+      {
+        "id": "https://MauAg1985.github.io/nvddhh/nacionalismovddhh/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2305.0,
+        "items": [
+          {
+            "id": "https://MauAg1985.github.io/nvddhh/nacionalismovddhh/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://MauAg1985.github.io/nvddhh/nacionalismovddhh/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia803104.us.archive.org/13/items/NacionalismoVs.DerechosHumanos/Nacionalismo%20vs.%20%20Derechos%20Humanos.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 2305.0
+                },
+                "target": "https://MauAg1985.github.io/nvddhh/nacionalismovddhh/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
