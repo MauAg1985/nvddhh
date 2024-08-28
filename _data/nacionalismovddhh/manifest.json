@@ -8,6 +8,176 @@
         "id": "https://MauAg1985.github.io/nvddhh/nacionalismovddhh/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2305.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-procedimientos-de-la-comisar-a.json",
+            "label": {
+              "none": ["Procedimientos de la comisaría"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-ubicaciones-de-la-morgue-policial.json",
+            "label": {
+              "none": ["Ubicaciones de la morgue policial"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-personal-m-dico-y-sus-roles.json",
+            "label": {
+              "none": ["Personal médico y sus roles"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-actas-de-defuncion-nn.json",
+            "label": {
+              "none": ["Actas de defuncion NN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-discrepancia-sobre-la-firma-del-testigo-y-datos.json",
+            "label": {
+              "none": ["Discrepancia sobre la firma del testigo y datos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-declaraci-n-de-personal-policial.json",
+            "label": {
+              "none": ["Declaración de personal policial"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-detenciones-ilegales.json",
+            "label": {
+              "none": ["Detenciones ilegales"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-localizaci-n-de-levantamiento-de-cadaveres.json",
+            "label": {
+              "none": ["Localización de levantamiento de cadaveres"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-descripci-n-de-los-coches-acribillados.json",
+            "label": {
+              "none": ["Descripción de los coches acribillados"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-destino-y-contenido-de-los-libros.json",
+            "label": {
+              "none": ["Destino y contenido de los libros"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-areas-liberadas.json",
+            "label": {
+              "none": ["Areas liberadas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-localizaci-n-f-sica-del-archivo.json",
+            "label": {
+              "none": ["Localización física del archivo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-proceso-de-notificaci-n-de-fallecimientos.json",
+            "label": {
+              "none": ["Proceso de notificación de fallecimientos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-procedimiento-de-inhumacion.json",
+            "label": {
+              "none": ["Procedimiento de inhumacion"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-libros-medico-legales-y-libros-administrativos.json",
+            "label": {
+              "none": ["Libros medico legales y libros administrativos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-traslado-de-cad-veres-y-fichas-dactilares.json",
+            "label": {
+              "none": ["Traslado de cadáveres y fichas dactilares"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-procedimiento-ante-el-registro-civil.json",
+            "label": {
+              "none": ["Procedimiento ante el registro civil"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-procedimiento-de-levantamiento-de-cadaveres.json",
+            "label": {
+              "none": ["Procedimiento de levantamiento de cadaveres"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-localizaci-n.json",
+            "label": {
+              "none": ["Localización"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-funciones-del-testigo-como-chofer.json",
+            "label": {
+              "none": ["Funciones del testigo como chofer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://MauAg1985.github.io/nvddhh/annotations/nacionalismovddhh-canvas-1-chofer-de-la-policia.json",
+            "label": {
+              "none": ["Chofer de la policia"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://MauAg1985.github.io/nvddhh/nacionalismovddhh/canvas-1/paintings",
